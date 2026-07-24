@@ -35,8 +35,8 @@ The dataset includes healthcare-related information such as:
 * Includes interactive filters for detailed analysis by gender, age group, doctor, hospital, insurance provider, medical    condition, and admission type.
 
 ## Tools & Technologies
-Power BI Desktop
-Microsoft Excel
-Power Query
-DAX
+Power BI Desktop |
+Microsoft Excel |
+Power Query |
+DAX |
 
